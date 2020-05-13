@@ -38,6 +38,7 @@ cc_prebuilt_library_shared {
 	soc_specific: true,
 }
 
+
 cc_prebuilt_library_shared {
 	name: "libplatformconfig",
 	owner: "xiaomi",
