@@ -478,7 +478,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/grus/proprietary/vendor/etc/thermal-engine-sdm710-map.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm710-map.conf \
     vendor/xiaomi/grus/proprietary/vendor/etc/thermal-engine-sdm710-nolimits.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm710-nolimits.conf \
     vendor/xiaomi/grus/proprietary/vendor/etc/thermal-engine-sdm710-phone.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm710-phone.conf \
-    vendor/xiaomi/grus/proprietary/vendor/etc/thermal-engine-sdm710-pubgmhd.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm710-pubgmhd.conf \
     vendor/xiaomi/grus/proprietary/vendor/etc/thermal-engine-sdm710-sgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm710-sgame.conf \
     vendor/xiaomi/grus/proprietary/vendor/etc/thermal-engine-sdm710-tgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm710-tgame.conf \
     vendor/xiaomi/grus/proprietary/vendor/etc/thermal-engine-sdm710.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm710.conf \
